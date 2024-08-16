@@ -9,19 +9,19 @@
 ## ⚡ Git Stats ⚡
 <div>
   <a href="https://github.com/S-A-N-D-A-R-U">
-    <img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=7&theme=algolia"/>
-    <img height="140em" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=algolia" alt="GitHub Streak" />  
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=algolia">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=algolia">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=algolia">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=algolia">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=algolia">
+    <img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-A-N-D-A-R-U&layout=compact&langs_count=7&theme=algolia"/>
+    <img height="140em" src="https://streak-stats.demolab.com?user=S-A-N-D-A-R-U&theme=algolia" alt="GitHub Streak" />  
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=S-A-N-D-A-R-U&theme=algolia">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=S-A-N-D-A-R-U&theme=algolia">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=S-A-N-D-A-R-U&theme=algolia">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=S-A-N-D-A-R-U&theme=algolia">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=S-A-N-D-A-R-U&theme=algolia">
   </a>
 </div>
     
 ## 👑 Trophy 👑  
 <div>    
-  <a href=""><img src = "https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&column=-1&rank=-?"></a>
+  <a href=""><img src = "https://github-profile-trophy.vercel.app/?username=S-A-N-D-A-R-U&theme=algolia&column=-1&rank=-?"></a>
 </div>
 
 <div align=center>
